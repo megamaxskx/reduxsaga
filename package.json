@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm test"
+    "test": "node test/all.js"
   },
   "repository": {
     "type": "git",
