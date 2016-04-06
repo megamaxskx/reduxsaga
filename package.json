@@ -1,0 +1,23 @@
+{
+  "name": "reduxsaga",
+  "version": "1.0.0",
+  "description": "test redux project",
+  "main": "app.js",
+  "dependencies": {
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://megamaxskx@github.com/megamaxskx/reduxsaga.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megamaxskx/reduxsaga/issues"
+  },
+  "homepage": "https://github.com/megamaxskx/reduxsaga#readme"
+}
